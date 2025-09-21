@@ -33,14 +33,16 @@ It’s not just about signals — it’s about **data-driven decisions, simplifi
 
 ---
 
-## 🛠 Tech Stack
-- **Python 3**
-- **Telegram Bot API**
-- **Flask** (for MetaMask web connection)
-- **Web3.py** (BlockDAG RPC integration)
-- **DeepSeek AI** (market/news intelligence)
-- **Crypto APIs** (CoinGecko, Binance, CryptoPanic, Reddit, etc.)
-- **Qrcode + PIL** (for wallet QR generation)
+## 🛠️ Tech Stack
+- **Python 3** — Core bot and AI logic
+- **Telegram Bot API** — User interaction
+- **Flask** — MetaMask web connection
+- **Web3.py** — Blockchain interactions
+- **DeepSeek AI** — Market/news intelligence
+- **Crypto APIs** — CoinGecko, Binance, CryptoPanic, Reddit, etc.
+- **Qrcode + PIL** — Wallet QR generation
+- **BlockDAG IDE** — Smart contract generation & deployment
+- **Solidity** — Contracts for token, presale, mining, and staking
 
 ---
 
