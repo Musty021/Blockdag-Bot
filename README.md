@@ -7,6 +7,13 @@ It’s not just about signals — it’s about **data-driven decisions, simplifi
 
 ---
 
+##  Contract Adresses
+- mining contract = 0x45b74a182e44518cb1713f495c8cd8e8e393ba6c
+- wallet contract = 0xc6f25071cdd6e8cac62733bb776fadbb27ca113a
+- presale contract = 0xfa2d5f7239aa64eb9564b95d14ad2b2aefe11b03
+- token contract = 0x62a61cB53761B7C6B0A65f034BD92d839db2a1EB
+---
+
 ##  Key Features
 
 ### 📊 Market Forecast & AI Signals
