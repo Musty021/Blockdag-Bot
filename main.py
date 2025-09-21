@@ -328,7 +328,7 @@ async def whitepaper_inline(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     await update.callback_query.message.edit_text(
         "📄 *BlockDAG Resources*\n\n"
-        "📖 Whitepaper: https://blockdag.network/whitepaper\n"
+        "📖 Whitepaper: https://blockdag.network/blockdag-litepaper-r1.pdf"
         "🌐 Official Website: https://blockdag.network\n"
         "📊 Purchase Portal: https://purchase3.blockdag.network\n"
         "📱 Mining App: Search 'BlockDAG X1' in app stores\n"
